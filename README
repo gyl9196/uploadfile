@@ -2,3 +2,13 @@ This lab is based on "express" framework, also you will need "adm-zip", and "mul
 you need to create an "upload" file to store all the uploading files, also you need to create a folder under "upload" called "unzip" to 
 store the files extracted from the "zip" file.
 
+whole file structure is like:
+
+>node_modules
+>uploads
+    >unzip
+>form.html
+>server.js
+>package.json
+>README
+>.gitignore
